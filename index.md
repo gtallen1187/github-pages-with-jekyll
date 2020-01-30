@@ -1,3 +1,5 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm going through the GitHub pages tutorial right now so that i can learn more about how Jekyll works.
+
+-Greg
